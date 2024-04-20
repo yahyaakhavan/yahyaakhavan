@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm yahya akhavan With a 3-year experience working with databases and now a junior front-end developer. I am a enthusiasm learner and i try to initiate projects to learn more and more. 
+I'm yahya akhavan With a 3-year experience working with databases and now a junior front-end developer. I am a enthusiasm learner and I try to initiate projects to learn more and more. 
 
 
 # 💻  Front-End:
